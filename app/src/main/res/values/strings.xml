@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyTravelDemo</string>
+    <string name="city_cox">Cox’s Bazar</string>
+    <string name="city_ban">Nilgriri Bandarban</string>
+    <string name="city_dhaka">Gulsan Lake Dhaka</string>
+    <string name="city_sylhet">Tea Garden Sylhet</string>
+
+
+
+    <string name="des_cox">Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island.</string>
+    <string name="des_ban">Bandarban (Bengali: বান্দরবন) is a district in South-Eastern Bangladesh, and a part of the Chittagong Division.[1] It is one of the three hill districts of Bangladesh and a part of the Chittagong Hill Tracts, he others being Rangamati District and Khagrachhari District. Bandarban (4,479 km²) is not only the remotest district of the country, but also is the least populated (population 292,900) one.[2] Bandarban (meaning the dam of monkeys), or in Marma or Arakanese language as "Rwa-daw Mro" is also known as Arvumi or the Bohmong Circle. Bandarban town is the home town of the Bohmong Chief (currently King, or Raja, U Cho Prue Marma) who is the head of the Marma population. Of the other hill districts, Rangamati is the Chakma Circle, headed by Raja Devasish Roy and Khagrachari is the Mong Circle, headed by Raja Sachingprue Marma. Bandarban is regarded as one of the most attractive travel destinations in Bangladesh. It also is the administrative headquarters of Bandarban district, which has turned into one of the most exotic tourist attractions in Bangladesh.</string>
+    <string name="des_dhaka">Dhaka (Bengali: ঢাকা) is the capital and largest city of Bangladesh. The name of the city was spelled as Dacca, which was an anglicisation name until the current spelling was adopted in 1983 to match with Bengali pronunciation.[11] Located in an eponymous district and division, it lies along the east bank of the Buriganga River in the heart of the Bengal delta. The city is a microcosm of the entire country, with diverse religious and ethnic communities. Dhaka is the economic, cultural and political center of Bangladesh. It is a major financial center of South Asia.\n\n
+
+At the height of its medieval glory, Dhaka was regarded as one of the wealthiest and most prosperous cities in the world.It served as the capital of the Bengal province of the Mughal Empire twice (1608–39 and 1660–1704).\n\n
+
+Dhaka is home to most of the local business conglomerate. Many multinational companies also maintain offices in the city. Dhaka Stock Exchange is one of the largest in South Asia in terms of trading volume and market capitalization.[18] The city is home to a number of regional and international training and development organizations, such as permanent secretariat of BIMSTEC. The city has the largest number of cycle rickshaws and is known as the Rickshaw Capital of the World.</string>
+
+    <string name="des_sylhet">Sylhet is a city in eastern Bangladesh, on the Surma River. It’s known for its Sufi shrines, like the ornate tomb and mosque of 14th-century saint Hazrat Shah Jalal, now a major pilgrimage site near Dargah Gate. The tiny Museum of Rajas contains belongings of the local folk poet Hasan Raja. A 3-domed gateway stands at the 17th-century Shahi Eidgah, a huge open-air hilltop mosque built by Emperor Aurangzeb</string>
+</resources>

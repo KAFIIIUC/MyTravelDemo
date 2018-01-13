@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.mytraveldemo.HomeActivity"
+    android:background="@drawable/images">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@android:drawable/zoom_plate"
+        android:id="@+id/layoutOne">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Cox's Bazar"
+            android:background="@android:drawable/menuitem_background"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:id="@+id/btnCoxId"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/layoutOne"
+        android:background="@android:drawable/zoom_plate"
+        android:id="@+id/layoutTwo">
+
+        <Button
+            android:id="@+id/btnBandorbanId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Nilgiri"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/layoutThree"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/layoutTwo"
+        android:background="@android:drawable/zoom_plate">
+
+        <Button
+            android:id="@+id/btnDhakaId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Gulsan Lake"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/layoutFour"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/layoutThree"
+        android:background="@android:drawable/zoom_plate">
+
+        <Button
+            android:id="@+id/btnSylhetId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Tea Garden"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutFive"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@id/layoutFour"
+        android:background="@android:drawable/zoom_plate">
+
+        <Button
+            android:id="@+id/btnBorishalId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Megaloi"
+            android:textColor="#fff"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
